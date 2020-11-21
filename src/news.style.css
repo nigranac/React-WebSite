@@ -1,0 +1,16 @@
+.newsContainer{
+    display: flex;
+    /* flex-direction: row; */
+    
+    margin: 50px;
+}
+
+.newsCard{
+    display: flex;
+    flex-direction: column;
+    overflow: scroll;
+    overflow-x: hidden;
+    height: 85vh;
+    margin-left: 20px;
+    
+}

@@ -1,0 +1,14 @@
+.container{
+  text-align: center;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+
+.navBar{
+    padding-right: 40px;
+    font-size: 23px;
+    text-decoration: none;
+    border-width: 2;
+     
+}
